@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marcus, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Marcus, an <a href="https://linkedin.com/in/marcus-dunlap-796257357/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
