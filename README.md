@@ -9,6 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/marcusdunlapgit/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/marcusdunlapgit/azure-network-protocols)
+ - <b>Azure Portal</b>
+  - [Microsoft Azure Overview]([https://github.com/marcusdunlapgit/osticket-prereqs](https://github.com/marcusdunlapgit/Azure_Information_Technology_Resources))
+  - [Azure Virtual Machine Deployment for Growing Organizations]([https://github.com/marcusdunlapgit/Azure_Resource_Deployment)
 
 <h2>🤳Connect with me:</h2>
 
